@@ -1,0 +1,2 @@
+# stata
+doc for stata
